@@ -1,0 +1,58 @@
+title: Sohnee
+owner: Sohnee
+description: >-
+  Sohnee are a rock band, formed in 1999 by kindred spirits, Steve Fenton 
+  and Duncan Bradshaw. With a bass-driven rock sound, sprinkled with chunky 
+  guitars, the power-trio (with many guest drummers) created a brooding 
+  sound with angular lyrics. Despite these morose foundations, there was 
+  always a clear intention to pull out a hooky chorus.
+baseurl: ""
+destination: _site
+url: "https://www.sohnee.co.uk"
+language: en
+
+# Sets the theme colour for browsers
+theme_color_hex: 333333
+# Sets the date format
+date_format: "%b %-d, %Y"
+# Whether to show exerpts on list pages
+show_excerpts: true;
+
+# Number of results per page
+paginate: 4
+# The path for articles (note, rename the "articles" folder if you change this)
+paginate_path: "/articles/page-:num/"
+# Should match the word for "page" above (including any separators, like -)
+paginate_page: "page-"
+
+# A fallback search location
+search_fallback_url: https://www.google.com/search
+# The query parameter for the site to search (for Google, this is 'q')
+search_fallback_site: q
+# The query parameter for the fallback (for Google, this is 'q')
+search_fallback_query: q
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+include: [_pages]
+exclude: ['LICENSE', 'README.md']
+
+collections:
+  authors:
+    output: true
+    permalink: author/:title/
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: authors
+    values:
+      layout: author
+
+theme: fenton-jekyll-boilerplate
