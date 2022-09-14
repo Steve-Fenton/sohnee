@@ -6,15 +6,15 @@ authors: steve-fenton
 description: Articles about Jekyll Boilerplate.
 nav-title: Articles
 nav-level: 1
-nav-order: 3000
-published: true
-nav-sitemap: true
-nav-search: true
+nav-order: 10000
+published: false
+nav-sitemap: false
+nav-search: false
 # Don't use permalink on list pages
 ---
 <main id="site-main">
   <h1>{{ 'articles' | t: 'title' }}</h1>
-  {%- if site.paginate %}
+  {%- if site.page_size != nil %}
     {% assign posts = paginator.posts %}
   {% else %}
     {% assign posts = site.posts %}

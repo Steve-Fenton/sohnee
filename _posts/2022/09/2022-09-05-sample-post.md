@@ -9,9 +9,9 @@ categories: articles
 tags: sample post
 banner-image: /assets/img/2022/09/surface-accessories-700.webp
 banner-image-alt: Microsoft Surface headphones and ergonomic keyboard
-published: true
-nav-sitemap: true
-nav-search: true
+published: false
+nav-sitemap: false
+nav-search: false
 ---
 
 ![Microsoft Surface headphones and ergonomic keyboard](/assets/img/2022/09/surface-accessories-700.webp)

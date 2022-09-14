@@ -4,33 +4,33 @@
 */
 
 :root {
-    --fore: #373737;
-    --fore-headings: #373737;
-    --aft: #FDFDFD;
+    --fore: #F0F0F0;
+    --fore-headings: #FDFDFD;
+    --aft: #222;
 
-    --fore-link: #b8ab7e;
-    --fore-link-alt: #c0b283;
-    --aft-link-alt: initial;
+    --fore-link: #c0b283;
+    --fore-link-alt: #b8ab7e;
+    --aft-link-alt: #111;
 
-    --fore-head: #373737;
-    --aft-head: #F0F0F0;
+    --fore-head: #c0b283;
+    --aft-head: #111;
 
-    --fore-breadcrumb: #373737;
-    --aft-breadcrumb: #F3F3F3;
+    --fore-breadcrumb: #F0F0F0;
+    --aft-breadcrumb: #111;
 
-    --link-head: #373737;
-    --link-alt-head: #c0b283;
+    --link-head: #c0b283;
+    --link-alt-head: #b8ab7e;
 
-    --fore-block: #373737;
-    --aft-block: #F3F3F3;
+    --fore-block: #F0F0F0;
+    --aft-block: #111;
     --icon-block: #222;
 
-    --fore-table-head: #FDFDFE;
+    --fore-table-head: #111;
     --aft-table-head: #b8ab7e;
-    --fore-table-row-odd: #373737;
-    --aft-table-row-odd: #FDFDFE;
-    --fore-table-row-even: #373737;
-    --aft-table-row-even: #F3F5FF;
+    --fore-table-row-odd: #F0F0F0;
+    --aft-table-row-odd: #333;
+    --fore-table-row-even: #F0F0F0;
+    --aft-table-row-even: #222;
 
     --heading-font: Georgia, 'Times New Roman', Times, serif;
     --content-font: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -46,36 +46,4 @@
     --grid-gap: 1rem;
     --grid-max-width: 60rem;
     --grid-width: 90vw;
-}
-
-@media (prefers-color-scheme: dark) {
-    :root {
-        --fore: #CCC;
-        --fore-headings: #CCE;
-        --aft: #333;
-    
-        --fore-link: #abb9ef;
-        --fore-link-alt: #abb9ef;
-        --aft-link-alt: #232323;
-        
-        --fore-head: #CCC;
-        --aft-head: #222;
-
-        --fore-breadcrumb: #CCC;
-        --aft-breadcrumb: #2C2C2C;
-
-        --link-head: #abb9ef;
-        --link-alt-head: #6580ed;
-
-        --fore-block: #CCC;
-        --aft-block: #111;
-        --icon-block: #abb9ef;
-
-        --fore-table-head: #CCC;
-        --aft-table-head: #222; 
-        --fore-table-row-odd: #CCC;
-        --aft-table-row-odd: #333;
-        --fore-table-row-even: #CCC;
-        --aft-table-row-even: #444;
-    }
 }
