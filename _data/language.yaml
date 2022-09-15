@@ -3,6 +3,13 @@
 # template:
 #   term:
 #     en: Translation
+aria:
+  breadcrumbs:
+    en: Breadcrumb
+  site_navigation:
+    en: Site Navigation
+  paging:
+    en: Paging
 
 skiplinks:
   skip_to_navigation:
