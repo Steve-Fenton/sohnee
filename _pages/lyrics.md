@@ -9,9 +9,6 @@ keywords: sohnee,lyrics,shatter,pictures of angels,cicatrization
 nav-title: Lyrics
 nav-level: 1
 nav-order: 3000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 We've gone through the archive to find the lyrics so some of the songs. The written lyrics may differ from performance lyrics, as Steve often forgot lyrics and ad-libbed instead.

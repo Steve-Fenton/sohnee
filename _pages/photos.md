@@ -9,9 +9,6 @@ keywords: sohnee,photos
 nav-title: Photos
 nav-level: 1
 nav-order: 5000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 All photographs by [Mark Holloway](http://www.hollowayphotography.co.uk/)

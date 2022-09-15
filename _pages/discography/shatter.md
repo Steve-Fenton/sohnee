@@ -7,11 +7,7 @@ authors: steve-fenton
 description: The discography for Sohnee, with their four releases.
 keywords: sohnee,discography,shatter,pictures of angels,cicatrization
 nav-title: Shatter
-nav-level: Sohnee - Discography
 nav-order: 3000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 ![Sohnee - Shatter (EP)](/assets/img/sohnee-shatter.webp)

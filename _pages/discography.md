@@ -10,9 +10,6 @@ nav-title: Discography
 nav-section: Music
 nav-level: 1
 nav-order: 2000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 This section contains information on the four main releases from Sohnee. The first edition of the Cicatrization LP included a transparent 3D CD case and is ultra-rare.

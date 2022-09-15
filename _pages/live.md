@@ -9,9 +9,6 @@ keywords: sohnee,live,shows
 nav-title: Live
 nav-level: 1
 nav-order: 4000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 ## 2006

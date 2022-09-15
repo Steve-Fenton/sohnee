@@ -9,9 +9,6 @@ keywords: sohnee,lyrics,an angel called misery
 nav-title: An Angel Called Misery
 nav-level: 0
 nav-order: 1000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 Taken from [Pictures of Angels](/discography/pictures-of-angels/)

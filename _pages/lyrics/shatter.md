@@ -9,9 +9,6 @@ keywords: sohnee,lyrics,shatter
 nav-title: Shatter
 nav-level: 0
 nav-order: 1000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 Taken from [Shatter](/discography/shatter/)

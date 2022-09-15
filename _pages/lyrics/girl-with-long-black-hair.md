@@ -9,9 +9,6 @@ keywords: sohnee,lyrics,the girl with long black hair
 nav-title: The Girl...
 nav-level: 0
 nav-order: 1000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 Taken from [Cicatrization](/discography/cicatrization/)

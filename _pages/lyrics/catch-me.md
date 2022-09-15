@@ -9,9 +9,6 @@ keywords: sohnee,lyrics,catch me
 nav-title: Catch Me
 nav-level: 0
 nav-order: 1000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 Taken from [Shatter](/discography/shatter/)

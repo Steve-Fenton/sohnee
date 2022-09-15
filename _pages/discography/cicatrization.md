@@ -7,11 +7,7 @@ authors: steve-fenton
 description: Information about the album 'Cicatrization' by Sohnee.
 keywords: sohnee,discography,cicatrization
 nav-title: Cicatrization
-nav-level: Sohnee - Discography
 nav-order: 1000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 ![Sohnee - Cicatrization](/assets/img/sohnee-cicatrization.webp)

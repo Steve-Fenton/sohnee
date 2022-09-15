@@ -7,11 +7,7 @@ authors: steve-fenton
 description: Information about the album 'Cicatrization' by Sohnee.
 keywords: sohnee,discography,pictures of angels
 nav-title: Pictures of Angels
-nav-level: Sohnee - Discography
 nav-order: 2000
-published: true
-nav-sitemap: true
-nav-search: true
 ---
 
 ![Sohnee - Pictures of Angels (2012)](/assets/img/sohnee-pictures-of-angels-2012.webp)
